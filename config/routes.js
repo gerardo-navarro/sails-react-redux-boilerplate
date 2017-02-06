@@ -33,7 +33,7 @@ var routes = {
 	
 	// the default sails homepage when creating a new app
 	'/sailshomepage': {
-		view: 'sailshomepage'
+		view: 'misc/sailshomepage'
 	},
 	
 	/***************************************************************************
